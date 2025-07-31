@@ -15,7 +15,6 @@ overall, scATS is a stepwise computational method, scATS, to de novo infer the r
 - [Installation](#Installation)
 - [Tutorial](#Tutorial)
 - [Citing](#Citing)
-- [License](#License)
 
 
 ## <span id="Overview">Overview</span>
@@ -61,7 +60,7 @@ if (!requireNamespace("remotes", quietly = TRUE))
 remotes::install_github("LuChenLab/r-scATS/scATS/")
 ```
 
-Alternatively, you can install `scATS` using the source file downloaded from the [repository](https://github.com/LuChenLab/r-scATS) :
+Alternatively, you can install `scATS` using the source file downloaded from the [repository](https://github.com/LuChenLab/r-scATS/blob/main/scATS_0.5.4.tar.gz) :
 ```r
 # Install scATS from a downloaded source file
 R CMD INSTALL scATS_0.5.4.tar.gz
@@ -71,15 +70,13 @@ R CMD INSTALL scATS_0.5.4.tar.gz
 ## <span id="Tutorial">Tutorial</span>
 
 
-To use scATS, you can follow the instructions below. The detailed installation and usage of scATS are available in our [document](./docs/_build/html/index.html).
+To use scATS, you can follow the instructions below. The detailed installation and usage of scATS are available in our [document](https://github.com/LuChenLab/r-scATS/blob/main/docs/_build/html/index.html).
 
-Demo data can be obtained from [repository](https://github.com/LuChenLab/DEMINERS/blob/main/DecodeR_0.1.0.tar.gz).
+Demo data can be obtained from [repository](https://github.com/LuChenLab/r-scATS/tree/main/demo).
 
 ## <span id="Citing">Citing</span>
 
 A pre-print is going to be uploaded soon.
 
-## <span id="License">License</span>
 
-GNU General Public License v3.0
 
